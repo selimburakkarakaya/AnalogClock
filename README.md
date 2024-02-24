@@ -1,8 +1,5 @@
 # AnalogClock
 
-A mini analog clock application coded in javascript.
-##
-
 This JavaScript program implements an analog clock implementation that runs in the browser. The hour and minute hands of the watch are constantly updated according to the current date and time information.
 
 How does it work?
